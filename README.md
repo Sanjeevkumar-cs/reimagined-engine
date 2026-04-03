@@ -26,5 +26,8 @@ Before running this bot, ensure you have the following installed on your machine
 git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
 ```
+*(Remember to change the `YOUR_USERNAME` and `YOUR_REPO_NAME` placeholders in the clone link before saving!)*
+
+---
 ## ⚠️ Disclaimer
 This project is for educational purposes only. Downloading content from third-party platforms may violate their Terms of Service and copyright laws. The repository owner assumes no responsibility for how this tool is used by individuals. Please respect the rights of content creators.
